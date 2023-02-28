@@ -1,0 +1,52 @@
+#foto_perfil{
+	padding: 6%;
+	margin-left: 20%;
+	border-radius: 100%;
+}
+#dados_perfil{
+	color: white;
+	text-align: center;
+	margin: 2%;
+}
+
+i.tamanho{font-size: 5em;}
+i.tamanho:hover{font-size: 5em;}
+
+.sidebar-nav .dropdown-menu {
+    position: relative;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border-radius: 0;
+    border: none;
+    background-color: #162309;
+    box-shadow: none;
+}
+
+
+@import url(http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css);
+
+
+.panel-heading .btn-clickable
+{
+display: inline-block;
+margin-top: 0px;
+font-size: 15px;
+margin-right: -10px;
+padding: 4px 10px;
+border-radius: 4px
+}
+ 
+ 
+.panel-heading span
+{
+margin-top: -23px;
+font-size: 15px;
+margin-right: -9px;
+}
+
+ div.container div.row div.col-md-12 div.panel div.panel-heading h3.panel-title
+{
+font-size: 20px;
+font-weight: 700pt;
+|
